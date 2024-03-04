@@ -1,0 +1,101 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "chandani",
+      "lastname": "gupta",
+      "email": "chandani@gmail.com",
+      "mobile": "6385636",
+      "gender": "Felmale",
+      "password": "456",
+      "date": "2023-12-12T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstname": "chandani",
+      "lastname": "gupta",
+      "email": "chandani@gmail.com",
+      "mobile": "9874563214",
+      "gender": "Felmale",
+      "password": "789",
+      "date": "2023-12-12T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstname": "kajal",
+      "lastname": "kadam",
+      "email": "kajal@gmail.com",
+      "mobile": "9874561235",
+      "gender": "Felmale",
+      "password": "123",
+      "date": "2023-12-12T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstname": "riddhi",
+      "lastname": "sharma",
+      "email": "riddhi@gmail.com",
+      "mobile": "7894563214",
+      "gender": "Felmale",
+      "password": "852",
+      "date": "2023-12-13T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "firstname": "pooja",
+      "lastname": "ti",
+      "email": "pooja@gmail.com",
+      "mobile": "9874563214",
+      "gender": "Felmale",
+      "password": "963",
+      "date": "2023-12-13T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "firstname": "kajal",
+      "lastname": "kadam",
+      "email": "kajal@gmail.com",
+      "mobile": "9874563214",
+      "gender": "Felmale",
+      "password": "789",
+      "date": "2023-12-14T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "firstname": "chandani",
+      "lastname": "gupta",
+      "email": "chandanij@gmail.com",
+      "mobile": "7894561236",
+      "gender": "Felmale",
+      "password": "987",
+      "date": "2023-12-14T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "firstname": "chandani",
+      "lastname": "gupta",
+      "email": "chandanij@gmail.com",
+      "mobile": "7894561236",
+      "gender": "Felmale",
+      "password": "987",
+      "date": "2023-12-14T18:30:00.000Z",
+      "id": 8
+    }
+  ]
+}
